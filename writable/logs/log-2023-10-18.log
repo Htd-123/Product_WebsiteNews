@@ -1,0 +1,235 @@
+CRITICAL - 2023-10-18 04:10:17 --> Undefined variable $categories
+in APPPATH\Views\content_view.php on line 38.
+ 1 APPPATH\Views\content_view.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categories', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 38)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(22): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->view('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-18 04:17:54 --> Invalid file: "menu.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('menu.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('menu', [], true)
+ 3 APPPATH\Controllers\HomeController.php(16): view('menu', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-18 04:45:22 --> Undefined variable $categories
+in APPPATH\Views\menu_view.php on line 9.
+ 1 APPPATH\Views\menu_view.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categories', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\menu_view.php', 9)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\menu_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('menu_view', [], true)
+ 5 APPPATH\Views\article_view.php(34): view('menu_view')
+ 6 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\article_view.php')
+ 7 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('article_view', [], true)
+ 9 APPPATH\Controllers\ArticleClassController.php(18): view('article_view', [...])
+10 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ArticleClassController->index('1')
+11 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArticleClassController))
+12 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-18 04:45:34 --> Undefined variable $categories
+in APPPATH\Views\menu_view.php on line 9.
+ 1 APPPATH\Views\menu_view.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categories', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\menu_view.php', 9)
+ 2 APPPATH\Views\article_view.php(34): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\menu_view.php')
+ 3 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\article_view.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('article_view', [], true)
+ 6 APPPATH\Controllers\ArticleClassController.php(18): view('article_view', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ArticleClassController->index('1')
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArticleClassController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-18 04:53:43 --> Undefined variable $categories
+in APPPATH\Views\menu_view.php on line 9.
+ 1 APPPATH\Views\menu_view.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categories', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\menu_view.php', 9)
+ 2 APPPATH\Views\article_view.php(34): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\menu_view.php')
+ 3 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\article_view.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('article_view', [], true)
+ 6 APPPATH\Controllers\ArticleClassController.php(18): view('article_view', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ArticleClassController->index('1')
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArticleClassController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-18 05:00:41 --> Undefined variable $categories
+in APPPATH\Views\menu_view.php on line 10.
+ 1 APPPATH\Views\menu_view.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categories', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\menu_view.php', 10)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\menu_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(242): CodeIgniter\View\View->render('menu_view', [], true)
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('article_view', [], true)
+ 6 APPPATH\Controllers\ArticleClassController.php(18): view('article_view', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ArticleClassController->index('3')
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArticleClassController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-18 05:00:44 --> Undefined variable $categories
+in APPPATH\Views\menu_view.php on line 10.
+ 1 APPPATH\Views\menu_view.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categories', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\menu_view.php', 10)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\menu_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(242): CodeIgniter\View\View->render('menu_view', [], true)
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('article_view', [], true)
+ 6 APPPATH\Controllers\ArticleClassController.php(18): view('article_view', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ArticleClassController->index('1')
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArticleClassController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-18 06:06:06 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', 'root', '', 'tintuconline', 3306, '', 0)
+#1 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `id`, `T...', Array, false)
+#4 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Models\news_modal.php(16): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Controllers\ArticleClassController.php(15): App\Models\news_modal->getArticleTitles()
+#6 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(919): App\Controllers\ArticleClassController->index('3')
+#7 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArticleClassController))
+#8 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\XAMPP_NEW\htdocs\Codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `id`, `T...', Array, false)
+#3 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Models\news_modal.php(16): CodeIgniter\Database\BaseBuilder->get()
+#4 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Controllers\ArticleClassController.php(15): App\Models\news_modal->getArticleTitles()
+#5 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(919): App\Controllers\ArticleClassController->index('3')
+#6 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArticleClassController))
+#7 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP_NEW\htdocs\Codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-10-18 06:06:06 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `id`, `Title`, `HeaderImageURL`
+FROM `articles`', [], false)
+ 3 APPPATH\Models\news_modal.php(16): CodeIgniter\Database\BaseBuilder->get()
+ 4 APPPATH\Controllers\ArticleClassController.php(15): App\Models\news_modal->getArticleTitles()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ArticleClassController->index('3')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArticleClassController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-18 07:57:16 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', 'root', '', 'tintuconline', 3306, '', 0)
+#1 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `id`, `T...', Array, false)
+#4 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Models\news_modal.php(16): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Controllers\HomeController.php(13): App\Models\news_modal->getArticleTitles()
+#6 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(919): App\Controllers\HomeController->index()
+#7 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#8 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\XAMPP_NEW\htdocs\Codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `id`, `T...', Array, false)
+#3 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Models\news_modal.php(16): CodeIgniter\Database\BaseBuilder->get()
+#4 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Controllers\HomeController.php(13): App\Models\news_modal->getArticleTitles()
+#5 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(919): App\Controllers\HomeController->index()
+#6 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#7 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP_NEW\htdocs\Codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-10-18 07:57:16 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `id`, `Title`, `HeaderImageURL`
+FROM `articles`', [], false)
+ 3 APPPATH\Models\news_modal.php(16): CodeIgniter\Database\BaseBuilder->get()
+ 4 APPPATH\Controllers\HomeController.php(13): App\Models\news_modal->getArticleTitles()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-18 07:57:39 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', 'root', '', 'tintuconline', 3306, '', 0)
+#1 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `id`, `T...', Array, false)
+#4 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Models\news_modal.php(16): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Controllers\HomeController.php(13): App\Models\news_modal->getArticleTitles()
+#6 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(919): App\Controllers\HomeController->index()
+#7 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#8 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\XAMPP_NEW\htdocs\Codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `id`, `T...', Array, false)
+#3 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Models\news_modal.php(16): CodeIgniter\Database\BaseBuilder->get()
+#4 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Controllers\HomeController.php(13): App\Models\news_modal->getArticleTitles()
+#5 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(919): App\Controllers\HomeController->index()
+#6 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#7 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP_NEW\htdocs\Codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-10-18 07:57:39 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `id`, `Title`, `HeaderImageURL`
+FROM `articles`', [], false)
+ 3 APPPATH\Models\news_modal.php(16): CodeIgniter\Database\BaseBuilder->get()
+ 4 APPPATH\Controllers\HomeController.php(13): App\Models\news_modal->getArticleTitles()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-18 07:59:00 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', 'root', '', 'tintuconline', 3306, '', 0)
+#1 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `id`, `T...', Array, false)
+#4 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Models\news_modal.php(16): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Controllers\HomeController.php(13): App\Models\news_modal->getArticleTitles()
+#6 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(919): App\Controllers\HomeController->index()
+#7 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#8 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\XAMPP_NEW\htdocs\Codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `id`, `T...', Array, false)
+#3 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Models\news_modal.php(16): CodeIgniter\Database\BaseBuilder->get()
+#4 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Controllers\HomeController.php(13): App\Models\news_modal->getArticleTitles()
+#5 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(919): App\Controllers\HomeController->index()
+#6 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#7 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP_NEW\htdocs\Codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-10-18 07:59:00 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `id`, `Title`, `HeaderImageURL`
+FROM `articles`', [], false)
+ 3 APPPATH\Models\news_modal.php(16): CodeIgniter\Database\BaseBuilder->get()
+ 4 APPPATH\Controllers\HomeController.php(13): App\Models\news_modal->getArticleTitles()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

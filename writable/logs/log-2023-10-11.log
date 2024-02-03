@@ -1,0 +1,1310 @@
+CRITICAL - 2023-10-11 05:19:20 --> Attempt to read property "Title" on null
+in APPPATH\Views\content_view.php on line 14.
+ 1 APPPATH\Views\content_view.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "Title" on null', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 14)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(20): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 05:19:25 --> Attempt to read property "Title" on null
+in APPPATH\Views\content_view.php on line 14.
+ 1 APPPATH\Views\content_view.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "Title" on null', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 14)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(20): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 05:19:41 --> Attempt to read property "Title" on null
+in APPPATH\Views\content_view.php on line 14.
+ 1 APPPATH\Views\content_view.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "Title" on null', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 14)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(20): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('2')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 05:19:45 --> Attempt to read property "Title" on null
+in APPPATH\Views\content_view.php on line 14.
+ 1 APPPATH\Views\content_view.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "Title" on null', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 14)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(20): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('3')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 05:19:48 --> Attempt to read property "Title" on null
+in APPPATH\Views\content_view.php on line 14.
+ 1 APPPATH\Views\content_view.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "Title" on null', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 14)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(20): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('2')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 05:20:16 --> Attempt to read property "Title" on null
+in APPPATH\Views\content_view.php on line 14.
+ 1 APPPATH\Views\content_view.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "Title" on null', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 14)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(20): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 05:20:18 --> Attempt to read property "Title" on null
+in APPPATH\Views\content_view.php on line 14.
+ 1 APPPATH\Views\content_view.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "Title" on null', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 14)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(20): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 05:22:06 --> Undefined variable $content
+in APPPATH\Views\content_view.php on line 14.
+ 1 APPPATH\Views\content_view.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $content', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 14)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(20): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 05:23:03 --> Attempt to read property "Title" on null
+in APPPATH\Views\content_view.php on line 14.
+ 1 APPPATH\Views\content_view.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "Title" on null', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 14)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(20): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 05:43:35 --> Attempt to read property "Title" on null
+in APPPATH\Views\content_view.php on line 14.
+ 1 APPPATH\Views\content_view.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "Title" on null', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 14)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(20): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 05:43:40 --> Attempt to read property "Title" on null
+in APPPATH\Views\content_view.php on line 14.
+ 1 APPPATH\Views\content_view.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "Title" on null', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 14)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(20): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-11 05:44:55 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ LIMIT 1' at line 3 in D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Model.php(264): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP_NEW\htdocs\Codeigniter4\system\BaseModel.php(662): CodeIgniter\Model->doFirst()
+#6 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Models\news_modal.php(23): CodeIgniter\BaseModel->first()
+#7 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Controllers\HomeController.php(19): App\Models\news_modal->getArticleContent(Array)
+#8 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(919): App\Controllers\HomeController->content(Array)
+#9 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#10 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\XAMPP_NEW\htdocs\Codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-10-11 05:44:55 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ LIMIT 1' at line 3
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `articles`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(264): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(662): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Models\news_modal.php(23): CodeIgniter\BaseModel->first()
+ 5 APPPATH\Controllers\HomeController.php(19): App\Models\news_modal->getArticleContent([])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content([])
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-11 05:44:58 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ LIMIT 1' at line 3 in D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Model.php(264): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP_NEW\htdocs\Codeigniter4\system\BaseModel.php(662): CodeIgniter\Model->doFirst()
+#6 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Models\news_modal.php(23): CodeIgniter\BaseModel->first()
+#7 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Controllers\HomeController.php(19): App\Models\news_modal->getArticleContent(Array)
+#8 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(919): App\Controllers\HomeController->content(Array)
+#9 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#10 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\XAMPP_NEW\htdocs\Codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-10-11 05:44:58 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ LIMIT 1' at line 3
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `articles`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(264): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(662): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Models\news_modal.php(23): CodeIgniter\BaseModel->first()
+ 5 APPPATH\Controllers\HomeController.php(19): App\Models\news_modal->getArticleContent([])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content([])
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 05:46:13 --> Too few arguments to function App\Controllers\HomeController::content(), 0 passed in D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php on line 919 and exactly 1 expected
+in APPPATH\Controllers\HomeController.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-11 05:47:27 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ LIMIT 1' at line 3 in D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Model.php(264): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP_NEW\htdocs\Codeigniter4\system\BaseModel.php(662): CodeIgniter\Model->doFirst()
+#6 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Models\news_modal.php(23): CodeIgniter\BaseModel->first()
+#7 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Controllers\HomeController.php(19): App\Models\news_modal->getArticleContent(Array)
+#8 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(919): App\Controllers\HomeController->content()
+#9 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#10 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\XAMPP_NEW\htdocs\Codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-10-11 05:47:27 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ LIMIT 1' at line 3
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `articles`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(264): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(662): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Models\news_modal.php(23): CodeIgniter\BaseModel->first()
+ 5 APPPATH\Controllers\HomeController.php(19): App\Models\news_modal->getArticleContent([])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-11 05:47:29 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ LIMIT 1' at line 3 in D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Model.php(264): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP_NEW\htdocs\Codeigniter4\system\BaseModel.php(662): CodeIgniter\Model->doFirst()
+#6 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Models\news_modal.php(23): CodeIgniter\BaseModel->first()
+#7 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Controllers\HomeController.php(19): App\Models\news_modal->getArticleContent(Array)
+#8 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(919): App\Controllers\HomeController->content()
+#9 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#10 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\XAMPP_NEW\htdocs\Codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-10-11 05:47:29 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ LIMIT 1' at line 3
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `articles`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(264): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(662): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Models\news_modal.php(23): CodeIgniter\BaseModel->first()
+ 5 APPPATH\Controllers\HomeController.php(19): App\Models\news_modal->getArticleContent([])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-11 05:47:45 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ LIMIT 1' at line 3 in D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Model.php(264): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP_NEW\htdocs\Codeigniter4\system\BaseModel.php(662): CodeIgniter\Model->doFirst()
+#6 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Models\news_modal.php(23): CodeIgniter\BaseModel->first()
+#7 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Controllers\HomeController.php(19): App\Models\news_modal->getArticleContent(Array)
+#8 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(919): App\Controllers\HomeController->content()
+#9 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#10 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\XAMPP_NEW\htdocs\Codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-10-11 05:47:45 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ LIMIT 1' at line 3
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `articles`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(264): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(662): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Models\news_modal.php(23): CodeIgniter\BaseModel->first()
+ 5 APPPATH\Controllers\HomeController.php(19): App\Models\news_modal->getArticleContent([])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-11 05:47:48 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ LIMIT 1' at line 3 in D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Model.php(264): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP_NEW\htdocs\Codeigniter4\system\BaseModel.php(662): CodeIgniter\Model->doFirst()
+#6 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Models\news_modal.php(23): CodeIgniter\BaseModel->first()
+#7 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Controllers\HomeController.php(19): App\Models\news_modal->getArticleContent(Array)
+#8 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(919): App\Controllers\HomeController->content()
+#9 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#10 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\XAMPP_NEW\htdocs\Codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-10-11 05:47:48 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ LIMIT 1' at line 3
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `articles`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(264): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(662): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Models\news_modal.php(23): CodeIgniter\BaseModel->first()
+ 5 APPPATH\Controllers\HomeController.php(19): App\Models\news_modal->getArticleContent([])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-11 05:48:44 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ LIMIT 1' at line 3 in D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\XAMPP_NEW\htdocs\Codeigniter4\system\Model.php(264): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP_NEW\htdocs\Codeigniter4\system\BaseModel.php(662): CodeIgniter\Model->doFirst()
+#6 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Models\news_modal.php(23): CodeIgniter\BaseModel->first()
+#7 D:\XAMPP_NEW\htdocs\Codeigniter4\app\Controllers\HomeController.php(19): App\Models\news_modal->getArticleContent(Array)
+#8 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(919): App\Controllers\HomeController->content()
+#9 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#10 D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\XAMPP_NEW\htdocs\Codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-10-11 05:48:44 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ LIMIT 1' at line 3
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `articles`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(264): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(662): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Models\news_modal.php(23): CodeIgniter\BaseModel->first()
+ 5 APPPATH\Controllers\HomeController.php(19): App\Models\news_modal->getArticleContent([])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:07:28 --> Too few arguments to function App\Controllers\HomeController::content(), 0 passed in D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php on line 919 and exactly 1 expected
+in APPPATH\Controllers\HomeController.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:07:44 --> Too few arguments to function App\Controllers\HomeController::content(), 0 passed in D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php on line 919 and exactly 1 expected
+in APPPATH\Controllers\HomeController.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:07:55 --> Too few arguments to function App\Controllers\HomeController::content(), 0 passed in D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php on line 919 and exactly 1 expected
+in APPPATH\Controllers\HomeController.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:08:30 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Models\news_modal.php(21): CodeIgniter\Model->__call('where', [...])
+ 4 APPPATH\Controllers\HomeController.php(18): App\Models\news_modal->getArticleContent('1')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:10:09 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Models\news_modal.php(21): CodeIgniter\Model->__call('where', [...])
+ 4 APPPATH\Controllers\HomeController.php(18): App\Models\news_modal->getArticleContent('2')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('2')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:10:11 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Models\news_modal.php(21): CodeIgniter\Model->__call('where', [...])
+ 4 APPPATH\Controllers\HomeController.php(18): App\Models\news_modal->getArticleContent('1')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:10:14 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Models\news_modal.php(21): CodeIgniter\Model->__call('where', [...])
+ 4 APPPATH\Controllers\HomeController.php(18): App\Models\news_modal->getArticleContent('3')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('3')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:11:01 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Models\news_modal.php(21): CodeIgniter\Model->__call('where', [...])
+ 4 APPPATH\Controllers\HomeController.php(18): App\Models\news_modal->getArticleContent('1')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:11:10 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Models\news_modal.php(21): CodeIgniter\Model->__call('where', [...])
+ 4 APPPATH\Controllers\HomeController.php(18): App\Models\news_modal->getArticleContent('1')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:11:15 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Models\news_modal.php(21): CodeIgniter\Model->__call('where', [...])
+ 4 APPPATH\Controllers\HomeController.php(18): App\Models\news_modal->getArticleContent('2')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('2')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:13:08 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Models\news_modal.php(21): CodeIgniter\Model->__call('where', [...])
+ 4 APPPATH\Controllers\HomeController.php(18): App\Models\news_modal->getArticleContent('1')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:13:20 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Models\news_modal.php(21): CodeIgniter\Model->__call('where', [...])
+ 4 APPPATH\Controllers\HomeController.php(18): App\Models\news_modal->getArticleContent('2')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('2')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:14:08 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Models\news_modal.php(21): CodeIgniter\Model->__call('where', [...])
+ 4 APPPATH\Controllers\HomeController.php(18): App\Models\news_modal->getArticleContent('1')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:21:30 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Models\news_modal.php(21): CodeIgniter\Model->__call('where', [...])
+ 4 APPPATH\Controllers\HomeController.php(18): App\Models\news_modal->getArticleContent('1')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:21:36 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Models\news_modal.php(21): CodeIgniter\Model->__call('where', [...])
+ 4 APPPATH\Controllers\HomeController.php(18): App\Models\news_modal->getArticleContent('1')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:38:18 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Models\news_modal.php(21): CodeIgniter\Model->__call('where', [...])
+ 4 APPPATH\Controllers\HomeController.php(18): App\Models\news_modal->getArticleContent('1')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:42:54 --> Too few arguments to function App\Controllers\HomeController::content(), 0 passed in D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php on line 919 and exactly 1 expected
+in APPPATH\Controllers\HomeController.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:42:57 --> Too few arguments to function App\Controllers\HomeController::content(), 0 passed in D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php on line 919 and exactly 1 expected
+in APPPATH\Controllers\HomeController.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:43:11 --> Too few arguments to function App\Controllers\HomeController::content(), 0 passed in D:\XAMPP_NEW\htdocs\Codeigniter4\system\CodeIgniter.php on line 919 and exactly 1 expected
+in APPPATH\Controllers\HomeController.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:46:09 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:46:50 --> Undefined variable $articleContent
+in APPPATH\Views\content_view.php on line 13.
+ 1 APPPATH\Views\content_view.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $articleContent', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:46:52 --> Undefined variable $articleContent
+in APPPATH\Views\content_view.php on line 13.
+ 1 APPPATH\Views\content_view.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $articleContent', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:47:30 --> Undefined variable $articleContent
+in APPPATH\Views\content_view.php on line 13.
+ 1 APPPATH\Views\content_view.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $articleContent', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:47:36 --> Undefined variable $articleContent
+in APPPATH\Views\content_view.php on line 13.
+ 1 APPPATH\Views\content_view.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $articleContent', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:47:40 --> Undefined variable $articleContent
+in APPPATH\Views\content_view.php on line 13.
+ 1 APPPATH\Views\content_view.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $articleContent', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:48:30 --> Undefined variable $articleContent
+in APPPATH\Views\content_view.php on line 13.
+ 1 APPPATH\Views\content_view.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $articleContent', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:48:49 --> Undefined variable $articleContent
+in APPPATH\Views\content_view.php on line 13.
+ 1 APPPATH\Views\content_view.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $articleContent', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:49:19 --> Undefined variable $articleContent
+in APPPATH\Views\content_view.php on line 13.
+ 1 APPPATH\Views\content_view.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $articleContent', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:49:36 --> Undefined variable $articleContent
+in APPPATH\Views\content_view.php on line 13.
+ 1 APPPATH\Views\content_view.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $articleContent', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 06:49:41 --> Undefined variable $articleContent
+in APPPATH\Views\content_view.php on line 13.
+ 1 APPPATH\Views\content_view.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $articleContent', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:01:21 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:02:51 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:04:33 --> Undefined array key "id"
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:04:35 --> Undefined array key "id"
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:06:19 --> Undefined array key "id"
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:06:33 --> Undefined array key "id"
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:06:52 --> Undefined array key "id"
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:06:55 --> Undefined array key "id"
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:07:19 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:07:20 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:07:24 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:09:12 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:21:38 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:22:14 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:22:22 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:25:50 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:27:50 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:27:52 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:27:53 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:28:41 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:31:12 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:32:08 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:33:57 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:36:51 --> Undefined array key "id"
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(17): view('content_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:41:31 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Models\news_modal.php(21): CodeIgniter\Model->__call('where', [...])
+ 4 APPPATH\Controllers\HomeController.php(18): App\Models\news_modal->getArticleContent('1')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:41:49 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Models\news_modal.php(21): CodeIgniter\Model->__call('where', [...])
+ 4 APPPATH\Controllers\HomeController.php(18): App\Models\news_modal->getArticleContent('1')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:41:54 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Models\news_modal.php(21): CodeIgniter\Model->__call('where', [...])
+ 4 APPPATH\Controllers\HomeController.php(18): App\Models\news_modal->getArticleContent('1')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:46:25 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Models\news_modal.php(21): CodeIgniter\Model->__call('where', [...])
+ 4 APPPATH\Controllers\HomeController.php(18): App\Models\news_modal->getArticleContent('1')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:50:14 --> Undefined variable $data
+in APPPATH\Controllers\HomeController.php on line 17.
+ 1 APPPATH\Controllers\HomeController.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Controllers\\HomeController.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 07:57:35 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Models\news_modal.php(21): CodeIgniter\Model->__call('where', [...])
+ 4 APPPATH\Controllers\HomeController.php(23): App\Models\news_modal->getArticleContent('1')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 08:23:53 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(23): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 08:24:39 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(23): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 08:24:42 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(23): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 08:25:01 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(23): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 08:25:07 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(23): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 08:25:36 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(23): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 08:26:22 --> Undefined array key "id"
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(23): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 08:26:24 --> Undefined array key "id"
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(23): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 08:26:30 --> Undefined array key "id"
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(23): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 08:27:07 --> Undefined array key "id"
+in APPPATH\Views\content_view.php on line 2.
+ 1 APPPATH\Views\content_view.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 2)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(23): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 08:27:40 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\content_view.php on line 10.
+ 1 APPPATH\Views\content_view.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 10)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(23): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 08:30:57 --> Attempt to read property "Content" on array
+in APPPATH\Views\content_view.php on line 19.
+ 1 APPPATH\Views\content_view.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "Content" on array', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 19)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(23): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 08:31:36 --> syntax error, unexpected token "}", expecting "," or ";"
+in APPPATH\Views\content_view.php on line 11.
+ 1 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 3 APPPATH\Controllers\HomeController.php(23): view('content_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 10:45:52 --> Class "App\Models\NewsModel" not found
+in APPPATH\Controllers\HomeController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 10:46:00 --> Class "App\Models\NewsModel" not found
+in APPPATH\Controllers\HomeController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 10:47:35 --> Class "App\Models\NewsModel" not found
+in APPPATH\Controllers\HomeController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 10:47:58 --> Class "App\Models\NewsModel" not found
+in APPPATH\Controllers\HomeController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 10:48:26 --> Class "App\Models\NewsModel" not found
+in APPPATH\Controllers\HomeController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 10:49:00 --> Undefined property: stdClass::$ArticleID
+in APPPATH\Views\home_view.php on line 98.
+ 1 APPPATH\Views\home_view.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$ArticleID', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\home_view.php', 98)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\home_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('home_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(12): view('home_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 10:49:26 --> Undefined property: stdClass::$ArticleID
+in APPPATH\Views\home_view.php on line 98.
+ 1 APPPATH\Views\home_view.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$ArticleID', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\home_view.php', 98)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\home_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('home_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(12): view('home_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 10:49:47 --> Undefined property: stdClass::$ArticleID
+in APPPATH\Views\home_view.php on line 98.
+ 1 APPPATH\Views\home_view.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$ArticleID', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\home_view.php', 98)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\home_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('home_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(12): view('home_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 10:49:58 --> Undefined variable $categories
+in APPPATH\Views\home_view.php on line 76.
+ 1 APPPATH\Views\home_view.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categories', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\home_view.php', 76)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\home_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('home_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(10): view('home_view')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 10:50:17 --> Undefined property: stdClass::$ArticleID
+in APPPATH\Views\home_view.php on line 98.
+ 1 APPPATH\Views\home_view.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$ArticleID', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\home_view.php', 98)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\home_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('home_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(12): view('home_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 10:51:55 --> Invalid file: "content.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('content.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content', [], true)
+ 3 APPPATH\Controllers\HomeController.php(22): view('content', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 10:52:06 --> Invalid file: "content.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('content.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content', [], true)
+ 3 APPPATH\Controllers\HomeController.php(22): view('content', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 10:52:47 --> Invalid file: "content.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('content.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content', [], true)
+ 3 APPPATH\Controllers\HomeController.php(22): view('content', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 10:52:49 --> Invalid file: "content.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('content.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content', [], true)
+ 3 APPPATH\Controllers\HomeController.php(22): view('content', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 10:58:04 --> Invalid file: "content.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('content.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content', [], true)
+ 3 APPPATH\Controllers\HomeController.php(22): view('content', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 10:58:10 --> Invalid file: "content.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('content.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content', [], true)
+ 3 APPPATH\Controllers\HomeController.php(22): view('content', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 10:58:13 --> Invalid file: "content.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('content.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content', [], true)
+ 3 APPPATH\Controllers\HomeController.php(22): view('content', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 10:58:25 --> Invalid file: "content.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('content.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content', [], true)
+ 3 APPPATH\Controllers\HomeController.php(22): view('content', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 10:58:36 --> Invalid file: "content.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('content.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content', [], true)
+ 3 APPPATH\Controllers\HomeController.php(22): view('content', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 10:58:58 --> Invalid file: "content.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('content.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content', [], true)
+ 3 APPPATH\Controllers\HomeController.php(22): view('content', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 10:59:18 --> Invalid file: "content.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('content.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content', [], true)
+ 3 APPPATH\Controllers\HomeController.php(22): view('content', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 11:01:40 --> Attempt to read property "Title" on array
+in APPPATH\Views\content_view.php on line 11.
+ 1 APPPATH\Views\content_view.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "Title" on array', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 11)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(23): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 11:06:35 --> Attempt to read property "Title" on array
+in APPPATH\Views\content_view.php on line 11.
+ 1 APPPATH\Views\content_view.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "Title" on array', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 11)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(23): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 11:08:11 --> Attempt to read property "Title" on array
+in APPPATH\Views\content_view.php on line 11.
+ 1 APPPATH\Views\content_view.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "Title" on array', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 11)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(23): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('4')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,33 @@
+CRITICAL - 2023-10-13 02:25:39 --> Attempt to read property "Title" on array
+in APPPATH\Views\content_view.php on line 11.
+ 1 APPPATH\Views\content_view.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "Title" on array', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 11)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(23): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 02:26:01 --> Attempt to read property "Title" on array
+in APPPATH\Views\content_view.php on line 11.
+ 1 APPPATH\Views\content_view.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "Title" on array', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 11)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(23): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 02:26:07 --> Attempt to read property "Title" on array
+in APPPATH\Views\content_view.php on line 11.
+ 1 APPPATH\Views\content_view.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "Title" on array', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php', 11)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\content_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('content_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(23): view('content_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->content('2')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

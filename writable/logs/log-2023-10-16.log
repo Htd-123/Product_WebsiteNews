@@ -1,0 +1,115 @@
+CRITICAL - 2023-10-16 10:22:24 --> Cannot use object of type stdClass as array
+in APPPATH\Views\home_view.php on line 69.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('home_view', [], true)
+ 4 APPPATH\Controllers\HomeController.php(15): view('home_view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-16 10:30:11 --> Undefined variable $danhMucItem
+in APPPATH\Views\home_view.php on line 69.
+ 1 APPPATH\Views\home_view.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $danhMucItem', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\home_view.php', 69)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\home_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('home_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(15): view('home_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-16 10:30:20 --> Undefined variable $danhMucItem
+in APPPATH\Views\home_view.php on line 69.
+ 1 APPPATH\Views\home_view.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $danhMucItem', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\home_view.php', 69)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\home_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('home_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(15): view('home_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-16 10:30:53 --> Undefined variable $danhMucItem
+in APPPATH\Views\home_view.php on line 69.
+ 1 APPPATH\Views\home_view.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $danhMucItem', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\home_view.php', 69)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\home_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('home_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(15): view('home_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-16 10:36:45 --> Undefined variable $danhMucItem
+in APPPATH\Views\home_view.php on line 69.
+ 1 APPPATH\Views\home_view.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $danhMucItem', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\home_view.php', 69)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\home_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('home_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(15): view('home_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-16 10:40:13 --> Undefined variable $danhMucItem
+in APPPATH\Views\home_view.php on line 69.
+ 1 APPPATH\Views\home_view.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $danhMucItem', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\home_view.php', 69)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\home_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('home_view', [], true)
+ 5 APPPATH\Controllers\HomeController.php(15): view('home_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-16 10:42:03 --> Cannot use object of type stdClass as array
+in APPPATH\Views\home_view.php on line 69.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('home_view', [], true)
+ 4 APPPATH\Controllers\HomeController.php(15): view('home_view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-16 10:45:26 --> Cannot use object of type stdClass as array
+in APPPATH\Views\home_view.php on line 69.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('home_view', [], true)
+ 4 APPPATH\Controllers\HomeController.php(15): view('home_view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-16 10:45:27 --> Cannot use object of type stdClass as array
+in APPPATH\Views\home_view.php on line 69.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('home_view', [], true)
+ 4 APPPATH\Controllers\HomeController.php(15): view('home_view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-16 10:45:37 --> Cannot use object of type stdClass as array
+in APPPATH\Views\home_view.php on line 69.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('home_view', [], true)
+ 4 APPPATH\Controllers\HomeController.php(15): view('home_view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-16 10:48:51 --> Cannot use object of type stdClass as array
+in APPPATH\Views\home_view.php on line 69.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('home_view', [], true)
+ 4 APPPATH\Controllers\HomeController.php(15): view('home_view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\HomeController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

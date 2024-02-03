@@ -1,0 +1,20 @@
+CRITICAL - 2023-10-27 17:47:00 --> There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 930.
+ 1 SYSTEMPATH\BaseModel.php(930): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(776): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\AdminController.php(66): CodeIgniter\Model->update('11', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->update()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-27 17:57:05 --> Undefined variable $articles
+in APPPATH\Views\edit_article.php on line 5.
+ 1 APPPATH\Views\edit_article.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $articles', 'D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\edit_article.php', 5)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\XAMPP_NEW\\htdocs\\Codeigniter4\\app\\Views\\edit_article.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('edit_article', [], true)
+ 5 APPPATH\Controllers\AdminController.php(50): view('edit_article', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->editArticle()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
